@@ -1,5 +1,5 @@
 <?php
-/*
+/* 
 Plugin Name: Issues Etc Widget
 Plugin URIzzz: http://www.jonathonellis.com/issuesetc
 Description: This plugin will display the Issues Etc Widget in your sidebar.  After you have installed and activated this plugin, simply go to your widgets and place the "Issues Etc. Widget" wherever you want in your sidebar.
